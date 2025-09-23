@@ -5,3 +5,4 @@ introduction-to-python/*.txt
 introduction-to-python/*.json
 *.h5
 .idea/
+data-science-tutorials.code-workspace
